@@ -4,7 +4,7 @@ public class CriacaoContaBancaria {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Bem-vindo ao sistema de criação de conta bancária!");
+        System.out.println("Bem-vindo!");
         System.out.println("Siga os passos abaixo para criar sua conta:");
 
         // Passo 1: Solicitar nome completo
